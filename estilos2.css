@@ -1,0 +1,14 @@
+h1 {font-size:30px; font-family:sans-serif; font-weight: bold;}
+h2 {font-size:30px; font-family: Arial; text-align: center ;}
+h3 {font-size:20px; font-family: Arial; text-align: left ;}
+h4{font-size:20px; font-family: Arial; text-align: left ; FONT-COLOR=}
+header,section,footer,aside,nav,article
+footer{font-size:20px;}
+div{background:black; margin-left:10px; margin-right:10px; margin-top: 5;margin-bottom: 5px; 
+border: 2px solid black; padding:0}
+footer {text-align: center}
+header {background:#ce0f08; padding:10px; text-align: center; border-bottom: 2px;}
+nav{background:#94a0af;padding:10px}
+.seccion {margin:20px; width:995px;border:1 px solid black; float:left; border: 1px solid black }
+.pie {clear:both;}
+article {background:#790d0d; border: 4px solid #999; padding: 20px}
